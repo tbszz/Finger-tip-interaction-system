@@ -1,3 +1,4 @@
+![Uploading Gemini_Generated_Image_6b3lsr6b3lsr6b3l.png…]()
 <div align="center">
   <h1>指尖交互系统（GestureCanvas）</h1>
   <p>通过摄像头识别手势，在画布上自然绘制与交互</p>
