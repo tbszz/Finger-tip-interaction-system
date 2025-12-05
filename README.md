@@ -1,4 +1,5 @@
-!([Gemini_Generated_Image_6b3lsr6b3lsr6b3l.png](https://github.com/tbszz/Finger-tip-interaction-system/blob/main/Gemini_Generated_Image_6b3lsr6b3lsr6b3l.png))
+![](./Gemini_Generated_Image_6b3lsr6b3lsr6b3l.png)
+
 
 <div align="center">
   <h1>指尖交互系统（GestureCanvas）</h1>
